@@ -24,3 +24,8 @@ int main()
     delete[] b; 
     return 0;
 }
+
+int main() {
+        cout << "Program fut!" << endl;   
+        return 0;
+}
